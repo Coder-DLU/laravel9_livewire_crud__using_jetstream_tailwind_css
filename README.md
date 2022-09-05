@@ -227,7 +227,7 @@ class Posts extends Component
 ```
 ## 6: Update Blade Files  
 - Vào resources/views/livewire/posts.blade.php
-- ```Dockerfile
+```Dockerfile
 <x-slot name="header">
     <h2 class="font-semibold text-xl text-gray-800 leading-tight">
         Manage Posts (Laravel 9 Livewire CRUD with Jetstream & Tailwind CSS - ItSolutionStuff.com)
