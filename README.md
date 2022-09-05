@@ -10,7 +10,7 @@ composer require laravel/jetstream
 ```
 - chúng ta cần tạo xác thực bằng lệnh dưới đây. bạn có thể tạo thông tin đăng nhập, đăng ký và xác minh email cơ bản. nếu bạn muốn tạo quản lý nhóm thì bạn phải truyền tham số bổ sung. bạn có thể thấy các lệnh dưới đây:
 ```Dockerfile
-composer require laravel/jetstream
+php artisan jetstream:install livewire
 ```
 - Cài node:
 ```Dockerfile
