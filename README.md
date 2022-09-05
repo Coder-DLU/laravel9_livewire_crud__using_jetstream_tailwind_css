@@ -325,7 +325,7 @@ class Posts extends Component
 </div>
 ```
 - Vào resources/views/layouts/app.blade.php
-- ```Dockerfile
+```Dockerfile
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
